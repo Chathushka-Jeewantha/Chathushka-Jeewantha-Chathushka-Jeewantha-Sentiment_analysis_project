@@ -1,2 +1,2 @@
-# Chathushka-Jeewantha-Chathushka-Jeewantha-Sentiment_analysis_project
-Chathushka-Jeewantha/Chathushka-Jeewantha-Sentiment_analysis_project
+# Chathushka-Jeewantha-Sentiment_analysis_project
+Chathushka-Jeewantha/Sentiment_analysis_project
